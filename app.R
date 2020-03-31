@@ -98,7 +98,7 @@ app$layout(
 
 ## Run app
 
-app$run_server(debug = TRUE)
+app$run_server()
 
 # command to add dash app in Rstudio viewer:
 # rstudioapi::viewer("http://127.0.0.1:8050")
